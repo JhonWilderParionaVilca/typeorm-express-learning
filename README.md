@@ -1,4 +1,5 @@
-<img align="center" src="https://camo.githubusercontent.com/627e61fb8879701d69b4dbb337c7d59bf5444a37893319702f3533f3c42860e7/68747470733a2f2f692e6962622e636f2f746271586d39512f6865616465722d74732d626f696c6572706c6174652d342e706e67" alt="TypeORM">
+<img align="center" src="https://camo.githubusercontent.com/627e61fb8879701d69b4dbb337c7d59bf5444a37893319702f3533f3c42860e7/68747470733a2f2f692e6962622e636f2f746271586d39512f6865616465722d74732d626f696c6572706c6174652d342e706e67" alt="TypeORM"/>
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -9,6 +10,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/wilderPariona/typeorm-express-learning)](https://github.com/wilderPariona/typeorm-express-learning/issues)
 [![GitHub forks](https://img.shields.io/github/forks/wilderPariona/typeorm-express-learning)](https://github.com/wilderPariona/typeorm-express-learning/network)
 [![GitHub stars](https://img.shields.io/github/stars/wilderPariona/typeorm-express-learning)](https://github.com/wilderPariona/typeorm-express-learning/stargazers)
+
 
 
 ## 🏗️ Tecnologías
@@ -63,8 +65,6 @@ $ yarn
 
 
 ## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
