@@ -3,13 +3,28 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+<p align="center">📦 Api CRUD typeorm y mysql 🐬</p>
+
+[![Heroku](https://heroku-badge.herokuapp.com/?app=typeorm-express-learning&root=api/users/)](https://typeorm-express-learning.herokuapp.com/api/users)
 [![GitHub issues](https://img.shields.io/github/issues/wilderPariona/typeorm-express-learning)](https://github.com/wilderPariona/typeorm-express-learning/issues)
 [![GitHub forks](https://img.shields.io/github/forks/wilderPariona/typeorm-express-learning)](https://github.com/wilderPariona/typeorm-express-learning/network)
 [![GitHub stars](https://img.shields.io/github/stars/wilderPariona/typeorm-express-learning)](https://github.com/wilderPariona/typeorm-express-learning/stargazers)
 
+
 ## 🏗️ Tecnologías
 
 - <a href="https://www.youtube.com/watch?v=AO4rygo86Tw" target="_blank" rel="noopener noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHi1ExONH-GDQ/company-logo_200_200/0/1567174028404?e=2159024400&v=beta&t=FhEs5dqdPUJ17WR0UT4y6IjIuCrlXaxmCD6zdzfgSwI" alt="clever cloud" width="30" height="30"> clever cloud </a>
+
+
+## 🔷 CRUD
+
+| EndPoint            	|  HTTP  	|                            DESCRIPCIÓN 	|
+|---------------------	|:------:	|---------------------------------------:	|
+| **`api/users`**     	|   GET  	|             Obtener todos los usuarios 	|
+| **`api/users/:id`** 	|   GET  	|   obtener un usuario específico por id 	|
+| **`api/users`**     	|  POST  	|                 crear un nuevo usuario 	|
+| **`api/users/:id`** 	|   PUT  	| actualizar un usuario existente por id 	|
+| **`api/users/:id`** 	| DELETE 	|   eliminar un usuario existente por id 	|
 
 # 🚀 Correr el proyecto
 
@@ -46,6 +61,7 @@ $ cd typeorm-learning
 $ yarn
 ```
 
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -65,3 +81,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
