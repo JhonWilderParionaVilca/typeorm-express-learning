@@ -10,13 +10,27 @@
 
 # 🚀 Correr el proyecto
 
+- configurar .env
+
+```.env
+TYPEORM_CONNECTION = "mysql"
+TYPEORM_HOST = "localhost"
+TYPEORM_PORT = 3306
+TYPEORM_USERNAME = "root"
+TYPEORM_PASSWORD = ""
+TYPEORM_DATABASE = "test"
+TYPEORM_SYNCHRONIZE = true
+TYPEORM_LOGGING = true
+TYPEORM_ENTITIES = "dist/entity/**/*.js"
+```
+
 ```sh
 # clonar el reositorio
 $ git clone https://github.com/wilderPariona/typeorm-express-learning.git
 # instalar dependencias
 $ cd typeorm-express-learning
 $ yarn
-# comprobar que se tenga una base de datos mysql y configurar los accesos en `ormconfig.json`
+# comprobar que se tenga una base de datos mysql corriendo
 # lanzar la api
 $ yarn dev
 ```
