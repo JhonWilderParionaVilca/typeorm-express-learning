@@ -1,4 +1,7 @@
 <img align="center" src="https://camo.githubusercontent.com/627e61fb8879701d69b4dbb337c7d59bf5444a37893319702f3533f3c42860e7/68747470733a2f2f692e6962622e636f2f746271586d39512f6865616465722d74732d626f696c6572706c6174652d342e706e67" alt="TypeORM">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">📦 Api CRUD typeorm y mysql 🐬</p>
 
@@ -57,4 +60,25 @@ $ npx typeorm init --name typeorm-learning --database mysql
 $ cd typeorm-learning
 $ yarn
 ```
-## CONTRIBUTORS ✨
+
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/wilderPariona"><img src="https://avatars.githubusercontent.com/u/46570334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>WilderPariona</b></sub></a><br /><a href="https://github.com/wilderPariona/typeorm-express-learning/commits?author=wilderPariona" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
