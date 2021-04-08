@@ -20,6 +20,9 @@
 
 ## 🔷 CRUD
 
+Para testear puede usar la url: `https://typeorm-express-learning.herokuapp.com/`
+
+
 | EndPoint            	|  HTTP  	|                            DESCRIPCIÓN 	|
 |---------------------	|:------:	|---------------------------------------:	|
 | **`api/users`**     	|   GET  	|             Obtener todos los usuarios 	|
