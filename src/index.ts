@@ -14,6 +14,9 @@ createConnection()
   .then(() => console.log("✔️ connectado a la base de datos"))
   .catch(console.log);
 
+/* Configs */
+app.set("PORT", process.env.PORT || 3333);
+
 /* middlewares */
 app.use(morgan("dev"));
 app.use(express.json());
@@ -22,4 +25,6 @@ app.use(cors());
 /* routes */
 app.use(userRoutes);
 
-app.listen(3333, () => console.log("🔼 server on port 3333"));
+app.listen(app.get("PORT"), () =>
+  console.log(`🔼 server on port ${app.get("PORT")}`)
+);
